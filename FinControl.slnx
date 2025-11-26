@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FinControl.Application/FinControl.Application.csproj" />
+  <Project Path="FinControl.Data/FinControl.Data.csproj" />
+  <Project Path="FinControl.Domain/FinControl.Domain.csproj" />
+  <Project Path="FinControl.WebApi/FinControl.WebApi.csproj" />
+</Solution>
